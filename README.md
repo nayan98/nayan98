@@ -1,5 +1,5 @@
 ### https://nayan98.github.io/
-SDE @ JP Morgan & Chase || Competitive Programmer || Web Developer
+SDE @ JP Morgan Chase & Co. || Competitive Programmer || Web Developer
 
 <!--
 **nayan98/nayan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
